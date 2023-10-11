@@ -1,4 +1,4 @@
-#!/opt/homebrew/bin/python3.11
+#!/usr/bin/env python3
 
 #########
 # Purpoose: Convert endpoint export file from ISE to be used for migration
